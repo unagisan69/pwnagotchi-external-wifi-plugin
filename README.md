@@ -1,0 +1,1 @@
+# pwnagotchi-external-wifi-plugin
